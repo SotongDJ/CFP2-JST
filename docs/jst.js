@@ -4,4 +4,4 @@ final_artist_str="唐綺陽";
 show_apple=true;
 show_google=false;
 show_spotify=true;
-show_youtube=false;
+show_youtube=true;
